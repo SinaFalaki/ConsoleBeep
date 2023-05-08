@@ -1,0 +1,15 @@
+D:\_MY C# PROJECT\consolebeep\bin\Debug\net6.0\consolebeep.exe
+D:\_MY C# PROJECT\consolebeep\bin\Debug\net6.0\consolebeep.deps.json
+D:\_MY C# PROJECT\consolebeep\bin\Debug\net6.0\consolebeep.runtimeconfig.json
+D:\_MY C# PROJECT\consolebeep\bin\Debug\net6.0\consolebeep.dll
+D:\_MY C# PROJECT\consolebeep\bin\Debug\net6.0\consolebeep.pdb
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.AssemblyInfoInputs.cache
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.AssemblyInfo.cs
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.dll
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\refint\consolebeep.dll
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.pdb
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\consolebeep.genruntimeconfig.cache
+D:\_MY C# PROJECT\consolebeep\obj\Debug\net6.0\ref\consolebeep.dll
